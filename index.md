@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: false
+toc: true
 ---
 Utilizing Twitter to Inform Stock Decision Making via Sentiment Analysis.
 
